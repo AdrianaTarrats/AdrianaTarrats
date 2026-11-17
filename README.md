@@ -1,51 +1,77 @@
 
-# Hi, I'm Adriana! 👋
+<div align="center">
 
-🎓 Computer Science & Software Engineering graduate  
-🎨 Interested in technology, design and user experience.
+<img src="assets/moonlight-meadow-cover.jpg" width="100%" alt="Moonlight Meadow cover"/>
 
-I enjoy turning ideas into useful, intuitive and visually engaging products. My background combines software development with a strong interest in UI/UX design, frontend development and creative problem-solving.
+# ✦ ADRIANA TARRATS ✦
 
-I'm currently looking for an opportunity to join a team where I can keep learning, contribute ideas and help build meaningful digital products.
+### Developer · Creative Thinker · Product Enthusiast
 
----
+*Designing, building and bringing ideas to life.*
 
-## ✨ Featured Project
 
-### 🌙 Moonlight Meadow
-**An educational 2D game built with C# and Unity**
-
-An independent project developed from concept and visual design to implementation and user testing. The game introduces computational thinking through interactive gameplay and recipe-building mechanics.
-
-- Designed and developed the complete game independently.
-- Created interfaces, interactions and gameplay systems.
-- Tested with 10 participants and improved the experience based on their feedback.
-
-[**Explore the project →**](https://github.com/AdrianaTarrats/MoonlightMeadow)
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+## ✿ About Me
 
-**Design & Prototyping**  
-Figma · UI/UX Design · Visual Design · Lovable
+I'm a **Computer Science & Software Engineering graduate** with a creative mindset and a passion for the intersection of design, technology and user experience.
 
-**Frontend Development**  
-HTML · CSS · JavaScript · TypeScript · Vue.js
+I enjoy transforming ideas into useful, intuitive and visually engaging products. From designing interfaces and experimenting with prototypes to bringing ideas to life through code, I love exploring the entire creative process.
 
-**Programming Languages**  
-C# · Python · Java · C · C++ · SQL · PHP
-
-**Tools & Technologies**  
-Unity · Git · GitHub · Linux · Docker · Bash
-
-**AI-assisted Development**  
-Claude · GitHub Copilot
+I'm currently looking for an opportunity to join a team where I can keep learning, contribute ideas and help build meaningful digital experiences.
 
 ---
 
-## 📫 Let's Connect!
+## 🌙 Featured Project
 
-I'm always happy to connect with people working at the intersection of design and technology.
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/adriana-tarrats-mejia/) · [Email](mailto:adrianatarrats@gmail.com)
+### Moonlight Meadow
+**An educational 2D game · C# & Unity**
+
+<img src="assets/moonlight-meadow-gameplay.png" width="100%" alt="Moonlight Meadow in-game screenshot"/>
+
+*A cozy educational game that introduces computational thinking through interactive gameplay and potion-making mechanics.*
+
+</div>
+
+**My contribution**
+- Independent design and development, from concept to implementation.
+- Design of interfaces, interactions and gameplay systems.
+- User testing with 10 participants and improvements based on their feedback.
+
+**Bachelor thesis grade: 10/10**
+
+<div align="center">
+
+[![Explore project](https://img.shields.io/badge/EXPLORE_PROJECT-9B70B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianaTarrats/MoonlightMeadow)
+
+</div>
+
+---
+
+## ✨ My Toolkit
+
+| | Skills & Technologies |
+|:--|:--|
+| 🎨 **Design & Prototyping** | Figma · Lovable · UI/UX · Visual Design |
+| 💻 **Frontend Development** | HTML · CSS · JavaScript · TypeScript · Vue.js |
+| ⚙️ **Programming** | C# · Python · Java · C · C++ · SQL · PHP |
+| 🛠️ **Tools & Technologies** | Unity · Git · GitHub · Linux · Docker · Bash |
+| ✨ **AI-assisted Development** | Claude · GitHub Copilot |
+
+---
+
+<div align="center">
+
+## 💌 Let's Connect!
+
+I'm always happy to connect with people who enjoy creating, experimenting and building meaningful things.
+
+[LinkedIn](https://www.linkedin.com/in/adriana-tarrats-mejia/) · [GitHub](https://github.com/AdrianaTarrats)
+
+*Thanks for stopping by! ✿*
+
+</div>
