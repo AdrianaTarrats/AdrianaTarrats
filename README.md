@@ -1,77 +1,70 @@
 
-<div align="center">
+# ୨୧ Adriana Tarrats ୨୧
 
-<img src="assets/moonlight-meadow-cover.jpg" width="100%" alt="Moonlight Meadow cover"/>
+**developer · designer · creative soul**
 
-# ✦ ADRIANA TARRATS ✦
+*Turning little ideas into meaningful things ♡*
 
-### Developer · Creative Thinker · Product Enthusiast
-
-*Designing, building and bringing ideas to life.*
-
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-C18DBB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriana-tarrats-mejia/)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-C18DBB?style=flat-square&logo=github&logoColor=white)](https://github.com/AdrianaTarrats)
 
 ---
 
-## ✿ About Me
+### ♡ About me
 
-I'm a **Computer Science & Software Engineering graduate** with a creative mindset and a passion for the intersection of design, technology and user experience.
+I'm a **Computer Science & Software Engineering graduate** with a creative mindset and a love for combining technology, design and user experience.
 
-I enjoy transforming ideas into useful, intuitive and visually engaging products. From designing interfaces and experimenting with prototypes to bringing ideas to life through code, I love exploring the entire creative process.
+I enjoy creating, experimenting and finding thoughtful ways to turn ideas into useful, intuitive and visually engaging products. From designing interfaces to bringing ideas to life through code, I love exploring the entire creative process.
 
-I'm currently looking for an opportunity to join a team where I can keep learning, contribute ideas and help build meaningful digital experiences.
+Currently looking for a team where I can keep learning, contribute ideas and help build meaningful digital experiences. ✿
 
 ---
 
-## 🌙 Featured Project
+### ୨୧ Featured project
 
-<div align="center">
+**Moonlight Meadow**  
+*An educational 2D game · C# · Unity*
 
-### Moonlight Meadow
-**An educational 2D game · C# & Unity**
+<p>
+  <img src="assets/moonlight-meadow-cover.jpg" width="240" alt="Moonlight Meadow title screen"/>
+  <img src="assets/moonlight-meadow-gameplay.png" width="240" alt="Moonlight Meadow gameplay"/>
+</p>
 
-<img src="assets/moonlight-meadow-gameplay.png" width="100%" alt="Moonlight Meadow in-game screenshot"/>
+A cozy educational game that introduces computational thinking through interactive gameplay and potion-making mechanics.
 
-*A cozy educational game that introduces computational thinking through interactive gameplay and potion-making mechanics.*
-
-</div>
-
-**My contribution**
-- Independent design and development, from concept to implementation.
-- Design of interfaces, interactions and gameplay systems.
-- User testing with 10 participants and improvements based on their feedback.
+- ♡ Independent design and development, from concept to implementation.
+- ♡ Design of interfaces, interactions and gameplay systems.
+- ♡ User testing with 10 participants and improvements based on feedback.
 
 **Bachelor thesis grade: 10/10**
 
-<div align="center">
-
-[![Explore project](https://img.shields.io/badge/EXPLORE_PROJECT-9B70B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdrianaTarrats/MoonlightMeadow)
-
-</div>
+[Explore Moonlight Meadow ↗](https://github.com/AdrianaTarrats/MoonlightMeadow)
 
 ---
 
-## ✨ My Toolkit
+### ✿ Things I work with
 
-| | Skills & Technologies |
-|:--|:--|
-| 🎨 **Design & Prototyping** | Figma · Lovable · UI/UX · Visual Design |
-| 💻 **Frontend Development** | HTML · CSS · JavaScript · TypeScript · Vue.js |
-| ⚙️ **Programming** | C# · Python · Java · C · C++ · SQL · PHP |
-| 🛠️ **Tools & Technologies** | Unity · Git · GitHub · Linux · Docker · Bash |
-| ✨ **AI-assisted Development** | Claude · GitHub Copilot |
+**🎀 Design & Prototyping**  
+Figma · Lovable · UI/UX · Visual Design
+
+**💻 Frontend Development**  
+HTML · CSS · JavaScript · TypeScript · Vue.js
+
+**🌷 Programming Languages**  
+C# · Python · Java · C · C++ · SQL · PHP
+
+**🧸 Tools & Technologies**  
+Unity · Git · GitHub · Linux · Docker · Bash
+
+**✨ AI-assisted Development**  
+Claude · GitHub Copilot
 
 ---
 
-<div align="center">
+### ♡ Let's connect!
 
-## 💌 Let's Connect!
-
-I'm always happy to connect with people who enjoy creating, experimenting and building meaningful things.
+Always happy to connect with people who enjoy creating, experimenting and building meaningful things.
 
 [LinkedIn](https://www.linkedin.com/in/adriana-tarrats-mejia/) · [GitHub](https://github.com/AdrianaTarrats)
 
-*Thanks for stopping by! ✿*
-
-</div>
+*Thanks for stopping by! ୨୧*
